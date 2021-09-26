@@ -1,0 +1,43 @@
+body{
+    font-size: large;
+    background-color: rgb(32, 110, 212);
+}
+
+h1{
+    text-align: center;
+}
+
+.container-center{
+    margin: auto;
+    width: 30%;
+    padding-bottom: 15rem;
+    padding-top: 2rem;
+}
+
+input{
+    width: 100%;
+    padding: 0.7rem;
+    margin: 0.7rem;
+}
+
+label{
+    margin: 0.7rem;
+    font-weight: bold;
+}
+
+button{
+    margin: 0.7rem;
+    width: 105.5%;
+    padding: 00.7rem;
+    font-size: large;
+    color: black;
+}
+
+h3{
+    text-align: center;
+    font-weight: bolder;
+}
+
+footer{
+    text-align: center;
+}
