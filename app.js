@@ -6,6 +6,7 @@ btnCheck.addEventListener("click", clickHandler);
 
 function dateToStr(date) {
     var dateStr = {
+        day:'', month:'', year:''
     };
 
     if (date.day < 10){
