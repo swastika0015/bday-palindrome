@@ -149,7 +149,7 @@ function clickHandler(e){
 
             var [counter, nextDate] = nextPalindrome(date);
 
-            message.innerText =  `The next Palindrome is ${nextDate.day}-${nextDate.month}-${nextDate.year}, you missed by ${counter} 😢`;
+            message.innerText =  `Ugh! The next Palindrome is ${nextDate.day}-${nextDate.month}-${nextDate.year}, you missed by ${counter} day 😢`;
         }
     }
 }
